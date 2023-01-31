@@ -1,0 +1,98 @@
+using System;
+
+namespace studentScoreGrade
+
+{
+
+} 
+
+cla0⁰ss Program
+
+{
+
+O references
+
+static void Main(string[] args)is 
+
+1
+
+/* STUDENT GRADING SYSTEM
+
+A 70 -100
+
+B 69-59
+
+C = 59 - 49
+
+D = 49 - 39
+
+E = 39 29
+
+F = 29 - 0
+
+*/PROGRAM TO GIVE GRADES TOi7 10th STUDENTS SCORE/*
+
+double myScore;
+
+char grade;
+
+}
+
+Console.Write("ENTER YOUR SCORE: ");
+
+myScore Convert.ToDouble(Console.ReadLine());
+
+if (myScore > 70)
+
+{
+
+grade = 'A';
+
+}
+
+else if (myScore >= 59)
+
+{
+
+grade 'B';
+
+}
+
+else if (myScore >= 49)
+
+(
+
+ grade- 'C';
+
+}
+
+else if (myScore >= 39)
+
+(
+
+grade - 'D';
+
+}
+
+else if (myScore >= 29)
+
+(
+
+grade = 'E';
+
+}
+
+else if (myScore >= 0)
+
+{
+
+grade = 'F';
+
+}
+
+}
+
+}
+
+}
+
